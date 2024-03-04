@@ -1,5 +1,3 @@
-# Predicting-Error-in-Application-Wireless-Sensor-Networks
-
 # Wireless Sensor Networks (WSNs) ALE Prediction
 
 ## Overview
